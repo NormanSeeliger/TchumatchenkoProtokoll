@@ -1,0 +1,18 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Material and Methods}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Leaky Integrate-and-Fire model}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Light sensitivity and stimulus}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Connectivity patterns}{4}{subsection.2.3}
+\contentsline {section}{\numberline {3}Results}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Excitatory neurons}{6}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Coupling strengths}{6}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Sensitivity}{7}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Connectivity degree}{7}{subsubsection.3.1.3}
+\contentsline {subsection}{\numberline {3.2}Inhibiitory neurons}{8}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Coupling strength and sensitivity}{8}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Connectivity degree}{9}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Random vs Gaussian pattern}{9}{subsection.3.3}
+\contentsline {section}{\numberline {4}Discussion}{10}{section.4}
+\contentsline {section}{\numberline {5}Outlook}{12}{section.5}
+\contentsfinish 
